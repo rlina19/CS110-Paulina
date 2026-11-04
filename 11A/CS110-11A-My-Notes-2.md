@@ -25,8 +25,10 @@ My evidence will be saved in my repository.
 
 ## 2. My seminar notes
 
-[Not recorded yet — complete this section.]
 
+Objects, classes, functions, and variables - logic. 
+* Use what you understand from C#, VS Code, git, html, css, etc to understand what you don't know when using Unity.
+Unity uses C# (already know c#) Unity uses VS Code (already used VS Code)
 ## My host translation
 
 Objects, classes, functions, and variables - logic. 
