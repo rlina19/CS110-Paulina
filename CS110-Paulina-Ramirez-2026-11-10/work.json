@@ -1,0 +1,734 @@
+{
+  "draftRevision": 14,
+  "me": {
+    "id": "PERSON-0A092D32209B17B9988D77CC",
+    "name": "Paulina Ramirez",
+    "verificationCode": "VIEW-FEFFAE3700CEFF60E81BBD73"
+  },
+  "draft": {
+    "prep": {
+      "repo": "https://github.com/rlina19/CS110-Paulina",
+      "gitTest": "I saved a read me to Git and committed it and it worked.  What else should I preview?",
+      "access": "My Git repository is accessible to others.",
+      "video1": "One useful idea is that mindset is a part of game development. My interpretation is that there are parts to game development. Mindset, structure, documentation, and the actual resources to develop your game.\nQuestion: \"How does separating the work into parts help with game development?\"",
+      "video2": "Creativity and innovation is important for game developing. It helps you think outside the box for unique ideas. Its important to persevere and have the right mindset because its important to be able to adapt to change quickly. Keep in mind who are your fans and focus on the fans. Growth mindset: take on challenges, learn from failures, effort, accept feedback, surround yourself with the right people, and don't stop learning. To stay motivated: set clear goals, lists and deadlines. Stay organized.",
+      "video3": "Folder structure is important because it makes it easier to manage your project and share it with others.",
+      "video4": "Folder structure is important for documentation for everything to be organized and for new members to see your project .\nQuestion: How can we share our documents with others?",
+      "video5": "I observed how to start a project on Unity. Open a 3D project and title it the name of yor project. Its important to save this project in the folder with your project. On unity you can see all your assets and all sorts of information on the inspector. One question I have is how to actually make your game do stuff on Unity.",
+      "video6": "Observations: On Mixamo.com you can get 3d characters and then import them into Unity for your game. You can check your folders through Explorer ad this can also help with folder structure. You can rearrange or fix folders.  A folder with your project name should be created to organize everything. ",
+      "opinion": "This can give us the right mindset to create any project The pipeline will help us turn a new story into something real by providng structure.",
+      "questions": "I observed the right mindset to bring to a team/project and know that its important to be motivated and have structure. Folder structure is important for game development."
+    },
+    "currentPage": 20,
+    "prepBoard": {
+      "notes": "",
+      "strokes": [
+        {
+          "tool": "pen",
+          "color": "#153f48",
+          "width": 4.793608521970706,
+          "points": [
+            [
+              0.10790558261521169,
+              0.0981907117645424
+            ],
+            [
+              0.10790558261521169,
+              0.09641199521969929
+            ],
+            [
+              0.10657341492860414,
+              0.09107584558516996
+            ],
+            [
+              0.09991257649556638,
+              0.08751841249548373
+            ],
+            [
+              0.09591607343574372,
+              0.08573969595064061
+            ],
+            [
+              0.09191957037592106,
+              0.08573969595064061
+            ],
+            [
+              0.08925523500270596,
+              0.08573969595064061
+            ],
+            [
+              0.08525873194288332,
+              0.08573969595064061
+            ],
+            [
+              0.0825943965696682,
+              0.08751841249548373
+            ],
+            [
+              0.0799300611964531,
+              0.0981907117645424
+            ],
+            [
+              0.07859789350984556,
+              0.10530557794391485
+            ],
+            [
+              0.077265725823238,
+              0.1141991606681304
+            ],
+            [
+              0.077265725823238,
+              0.1266501764820322
+            ],
+            [
+              0.077265725823238,
+              0.13910119229593396
+            ],
+            [
+              0.077265725823238,
+              0.14799477502014952
+            ],
+            [
+              0.077265725823238,
+              0.15333092465467885
+            ],
+            [
+              0.0799300611964531,
+              0.1586670742892082
+            ],
+            [
+              0.08392656425627576,
+              0.1586670742892082
+            ],
+            [
+              0.09058740268931352,
+              0.1622245073788944
+            ],
+            [
+              0.09858040880895882,
+              0.16578194046858064
+            ],
+            [
+              0.10923775030181924,
+              0.16756065701342376
+            ],
+            [
+              0.1185629241080721,
+              0.16933937355826686
+            ],
+            [
+              0.12389159485450231,
+              0.16933937355826686
+            ],
+            [
+              0.1265559302277174,
+              0.16933937355826686
+            ],
+            [
+              0.12788809791432496,
+              0.16933937355826686
+            ],
+            [
+              0.12922026560093253,
+              0.16933937355826686
+            ],
+            [
+              0.12922026560093253,
+              0.16756065701342376
+            ],
+            [
+              0.12922026560093253,
+              0.16578194046858064
+            ],
+            [
+              0.12922026560093253,
+              0.1622245073788944
+            ],
+            [
+              0.12922026560093253,
+              0.1586670742892082
+            ],
+            [
+              0.1265559302277174,
+              0.15510964119952197
+            ],
+            [
+              0.11723075642146455,
+              0.14977349156499264
+            ],
+            [
+              0.11456642104824945,
+              0.14621605847530642
+            ],
+            [
+              0.10923775030181924,
+              0.14265862538562019
+            ],
+            [
+              0.10790558261521169,
+              0.14265862538562019
+            ],
+            [
+              0.10790558261521169,
+              0.14087990884077708
+            ],
+            [
+              0.10657341492860414,
+              0.14087990884077708
+            ]
+          ]
+        },
+        {
+          "tool": "eraser",
+          "color": "#153f48",
+          "width": 19.174434087882823,
+          "points": [
+            [
+              0.08392656425627576,
+              0.0377143492398766
+            ],
+            [
+              0.07593355813663046,
+              0.04838664850893527
+            ],
+            [
+              0.05328670746430207,
+              0.09107584558516996
+            ],
+            [
+              0.030639856791973688,
+              0.14799477502014952
+            ],
+            [
+              0.010657341492860415,
+              0.22447958644840332
+            ],
+            [
+              0.00799300611964531,
+              0.24226675189683444
+            ],
+            [
+              0.00799300611964531,
+              0.24760290153136377
+            ],
+            [
+              0.009325173806252862,
+              0.24938161807620687
+            ],
+            [
+              0.02397901835893593,
+              0.24938161807620687
+            ],
+            [
+              0.06660838433037759,
+              0.2369306022623051
+            ],
+            [
+              0.1185629241080721,
+              0.19779883827575664
+            ],
+            [
+              0.1651887931393364,
+              0.1604457908340513
+            ],
+            [
+              0.18650347612505724,
+              0.13732247575109086
+            ],
+            [
+              0.17184963157237418,
+              0.14799477502014952
+            ],
+            [
+              0.11456642104824945,
+              0.17823295628248242
+            ],
+            [
+              0.07060488739020024,
+              0.2066924209999722
+            ],
+            [
+              0.061279713583947376,
+              0.21202857063450153
+            ],
+            [
+              0.058615378210732275,
+              0.21202857063450153
+            ],
+            [
+              0.06261188127055493,
+              0.20313498791028597
+            ],
+            [
+              0.0719370550768078,
+              0.17111809010310997
+            ],
+            [
+              0.08392656425627576,
+              0.14087990884077708
+            ],
+            [
+              0.08659089962949086,
+              0.1284288930268753
+            ],
+            [
+              0.08659089962949086,
+              0.12487145993718907
+            ],
+            [
+              0.08525873194288332,
+              0.11953531030265974
+            ],
+            [
+              0.07859789350984556,
+              0.1141991606681304
+            ],
+            [
+              0.0746013904500229,
+              0.1141991606681304
+            ],
+            [
+              0.0746013904500229,
+              0.11242044412328729
+            ],
+            [
+              0.0746013904500229,
+              0.10174814485422862
+            ],
+            [
+              0.077265725823238,
+              0.0839609794057975
+            ],
+            [
+              0.08392656425627576,
+              0.06261638086768016
+            ],
+            [
+              0.08925523500270596,
+              0.04660793196409216
+            ],
+            [
+              0.09058740268931352,
+              0.0377143492398766
+            ],
+            [
+              0.08525873194288332,
+              0.06439509741252328
+            ],
+            [
+              0.07859789350984556,
+              0.09285456213001306
+            ],
+            [
+              0.07326922276341534,
+              0.11775659375781662
+            ],
+            [
+              0.0719370550768078,
+              0.1302076095717184
+            ],
+            [
+              0.0719370550768078,
+              0.13198632611656153
+            ],
+            [
+              0.07326922276341534,
+              0.12487145993718907
+            ],
+            [
+              0.08392656425627576,
+              0.10174814485422862
+            ],
+            [
+              0.09458390574913617,
+              0.0821822628609544
+            ],
+            [
+              0.09858040880895882,
+              0.07328868013673884
+            ],
+            [
+              0.09991257649556638,
+              0.07328868013673884
+            ],
+            [
+              0.09991257649556638,
+              0.07150996359189572
+            ],
+            [
+              0.09991257649556638,
+              0.07862482977126817
+            ],
+            [
+              0.09858040880895882,
+              0.10708429448875796
+            ],
+            [
+              0.09325173806252862,
+              0.1302076095717184
+            ],
+            [
+              0.08925523500270596,
+              0.13910119229593396
+            ],
+            [
+              0.08792306731609842,
+              0.14621605847530642
+            ],
+            [
+              0.08792306731609842,
+              0.13910119229593396
+            ],
+            [
+              0.09191957037592106,
+              0.13198632611656153
+            ],
+            [
+              0.09325173806252862,
+              0.1284288930268753
+            ],
+            [
+              0.09458390574913617,
+              0.1284288930268753
+            ],
+            [
+              0.09591607343574372,
+              0.1284288930268753
+            ],
+            [
+              0.09858040880895882,
+              0.1284288930268753
+            ],
+            [
+              0.09991257649556638,
+              0.1284288930268753
+            ],
+            [
+              0.10257691186878148,
+              0.13376504266140463
+            ],
+            [
+              0.10257691186878148,
+              0.14799477502014952
+            ],
+            [
+              0.10257691186878148,
+              0.17111809010310997
+            ],
+            [
+              0.10124474418217393,
+              0.18890525555154108
+            ],
+            [
+              0.09591607343574372,
+              0.20313498791028597
+            ],
+            [
+              0.09458390574913617,
+              0.20313498791028597
+            ],
+            [
+              0.09325173806252862,
+              0.20313498791028597
+            ],
+            [
+              0.09191957037592106,
+              0.20313498791028597
+            ],
+            [
+              0.08925523500270596,
+              0.18890525555154108
+            ],
+            [
+              0.08925523500270596,
+              0.1746755231927962
+            ],
+            [
+              0.09191957037592106,
+              0.1622245073788944
+            ],
+            [
+              0.10390907955538903,
+              0.14265862538562019
+            ],
+            [
+              0.11456642104824945,
+              0.13910119229593396
+            ],
+            [
+              0.12522376254110987,
+              0.13554375920624775
+            ],
+            [
+              0.13454893634736273,
+              0.13910119229593396
+            ],
+            [
+              0.1385454394071854,
+              0.14087990884077708
+            ],
+            [
+              0.13987760709379293,
+              0.14265862538562019
+            ],
+            [
+              0.13987760709379293,
+              0.14799477502014952
+            ],
+            [
+              0.12922026560093253,
+              0.1604457908340513
+            ],
+            [
+              0.10923775030181924,
+              0.1746755231927962
+            ],
+            [
+              0.08792306731609842,
+              0.18356910591701175
+            ],
+            [
+              0.077265725823238,
+              0.18534782246185486
+            ],
+            [
+              0.07593355813663046,
+              0.18534782246185486
+            ],
+            [
+              0.07326922276341534,
+              0.18534782246185486
+            ],
+            [
+              0.07326922276341534,
+              0.16578194046858064
+            ],
+            [
+              0.07859789350984556,
+              0.10886301103360106
+            ],
+            [
+              0.10124474418217393,
+              0.05905894777799394
+            ],
+            [
+              0.115898588734857,
+              0.03593563269503349
+            ],
+            [
+              0.12389159485450231,
+              0.02526333342597482
+            ],
+            [
+              0.12522376254110987,
+              0.02526333342597482
+            ],
+            [
+              0.12389159485450231,
+              0.0679525305022095
+            ],
+            [
+              0.11723075642146455,
+              0.1284288930268753
+            ],
+            [
+              0.11190208567503435,
+              0.17823295628248242
+            ],
+            [
+              0.10790558261521169,
+              0.21380728717934466
+            ],
+            [
+              0.10790558261521169,
+              0.22625830299324642
+            ],
+            [
+              0.10790558261521169,
+              0.22447958644840332
+            ],
+            [
+              0.11056991798842679,
+              0.2049137044551291
+            ],
+            [
+              0.11323425336164189,
+              0.17823295628248242
+            ],
+            [
+              0.12122725948128721,
+              0.10886301103360106
+            ],
+            [
+              0.13055243328754007,
+              0.0679525305022095
+            ],
+            [
+              0.13588110403397027,
+              0.04127178232956282
+            ],
+            [
+              0.13588110403397027,
+              0.03593563269503349
+            ],
+            [
+              0.13721327172057782,
+              0.034156916150190376
+            ],
+            [
+              0.13055243328754007,
+              0.028820766515661043
+            ]
+          ]
+        }
+      ],
+      "images": [],
+      "nodes": [
+        {
+          "id": "7200a822-5204-4f97-a6b3-4b9db9874028",
+          "kind": "text",
+          "x": 0.18709087881437078,
+          "y": 0.010403546316111276,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": ""
+        },
+        {
+          "id": "f171ccd0-f53d-4e60-9986-a4ddc1fb0fd9",
+          "kind": "text",
+          "x": 0.09783564381166479,
+          "y": 0.07087990884077708,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": ""
+        },
+        {
+          "id": "12ec00db-3961-449d-a3d8-0c4355ed393d",
+          "kind": "text",
+          "x": 0.07785312851255152,
+          "y": 0.02107584558516995,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": ""
+        },
+        {
+          "id": "d1c651bb-e05e-44ca-8635-191b9a1e6504",
+          "kind": "text",
+          "x": 0.011989509179467965,
+          "y": 0.13530557794391485,
+          "w": 0.9458390574913618,
+          "h": 0.8380136738834385,
+          "color": "#153f48",
+          "text": ""
+        },
+        {
+          "id": "71ef46e5-b225-4fc5-939f-417acd3d7707",
+          "kind": "text",
+          "x": 0,
+          "y": 0.02285456213001305,
+          "w": 0.9698180758502977,
+          "h": 0.9113329257107918,
+          "color": "#153f48",
+          "text": ""
+        },
+        {
+          "id": "19ee11b1-d83e-44a8-8225-ccc3175da427",
+          "kind": "text",
+          "x": 0.1657761958286499,
+          "y": 0.17582418498652067,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": ""
+        },
+        {
+          "id": "283b224a-0325-4eb3-ab16-f4a5b36735f5",
+          "kind": "note",
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1,
+          "color": "#153f48",
+          "text": "1. Breaking Work Into Parts\nHow does separating the work into parts help with game development?\nMakes big projects easier to manage.\nKeeps everyone organized.\nAllows team members to focus on different tasks.\nHelps identify and fix problems\nMakes it easier to track progress and meet deadlines.\n2. Creativity & Growth Mindset\nBe creative and think outside the box.\nAdapt quickly to changes.\nFocus on your fans and what they enjoy.\nLearn from mistakes and accept feedback.\nTake on challenges and never stop learning.\nSurround yourself with supportive people.\n3. Staying Motivated & Organized\nSet clear goals.\nMake task lists and deadlines.\nStay organized and manage your time.\nPersevere even when things get difficult.\n4. Folder Structure & Sharing\nCreate a main folder with your project name.\nKeep assets, documents, and files organized.\nUse folders to make information easy to find.\nShare organized folders and documents with teammates.\nGood documentation helps new teammembers understand the project.",
+          "fill": "#d8e5fb"
+        }
+      ],
+      "edges": [
+        {
+          "id": "65acc8b8-8cb1-402c-ad50-30fa6ec4ea96",
+          "from": "283b224a-0325-4eb3-ab16-f4a5b36735f5",
+          "fromPort": "w",
+          "to": "71ef46e5-b225-4fc5-939f-417acd3d7707",
+          "toPort": "w",
+          "color": "#153f48"
+        },
+        {
+          "id": "1e050ede-0283-4997-883e-2d4336acd94d",
+          "from": "283b224a-0325-4eb3-ab16-f4a5b36735f5",
+          "fromPort": "n",
+          "to": "71ef46e5-b225-4fc5-939f-417acd3d7707",
+          "toPort": "n",
+          "color": "#153f48"
+        }
+      ]
+    }
+  },
+  "receipts": [],
+  "clocks": [
+    {
+      "code": "TIME-B874A7C483EB3B24AF29AEE1",
+      "name": "Paulina Ramirez",
+      "day": "A",
+      "arrival": "2026-11-10T21:02:05.086Z",
+      "start": "2026-11-10T20:45:00Z",
+      "calculated": 15,
+      "deduction": 15,
+      "status": "Calculated · awaiting instructor review"
+    }
+  ],
+  "team": null,
+  "invites": [],
+  "serverNow": "2026-11-10T21:02:05.183Z",
+  "github": {
+    "workspaceId": "PERSON-0A092D32209B17B9988D77CC",
+    "repo": {
+      "owner": "rlina19",
+      "repo": "CS110-Paulina",
+      "fullName": "rlina19/CS110-Paulina",
+      "url": "https://github.com/rlina19/CS110-Paulina",
+      "id": 1444850038,
+      "private": false,
+      "defaultBranch": "main",
+      "verifiedAt": "2026-11-10T20:56:02.224Z"
+    },
+    "connected": false,
+    "account": null,
+    "canBackup": false,
+    "publicBackupApproved": false,
+    "branch": null,
+    "lastBackup": null,
+    "lastCommit": null,
+    "lastError": "",
+    "pending": true,
+    "preferences": {
+      "timerMinutes": 10
+    },
+    "policy": {
+      "repoRequired": true,
+      "verifyOnline": true,
+      "allowOffline": true,
+      "autoBackup": true,
+      "intervalMinutes": 5
+    },
+    "appConfigured": true
+  },
+  "prefs": {
+    "schemaVersion": 1,
+    "theme": "development-road",
+    "lastPage": 20,
+    "timerMinutes": 10
+  }
+}
